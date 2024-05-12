@@ -12,7 +12,14 @@
 6. Now you're ready to go!
 
 # Usage:
-1. On your preferred text editor, open the
+1. To see the database on your preferred text editor, open and run the below files in the below order:
+  1. Creating Database and tables and primary and foreign keys.sql
+  2. Insert Into Database.sql
+  3. Do this before Group by.sql
+2. To use the queries in the tasks, open and run the ones which interest you.
+
+
+# Thank you for your interest in my project!
 
 # Credits:
 Toluwani Morohunfola
