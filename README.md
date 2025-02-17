@@ -8,7 +8,7 @@
 2. Click the green drop-down saying 'Code'.
 3. Copy the url given from one of the options: HTTPS, SSH or GitHub CLI.
 4. On your command line, navigate to the folder you would like to store the code in.
-5. Paste the url given from one of the otpions: HTTPS, SSH or GitHub CLI.
+5. Type "git clone" then paste the url given from one of the otpions: HTTPS, SSH or GitHub CLI.
 6. Now you're ready to go!
 
 # Usage:
